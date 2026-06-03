@@ -3,7 +3,9 @@
 
 Congratulations! You're convening a course for the School of Philosophy. The systems and bureaucracy at ANU can be overwhelming even to experienced convenors. This is an attempt to make it more manageable.
 
-Since deadlines are variable, they are *in italics* as much as possible. 
+This is an evolving document. Some stuff will get fleshed out as I go. 
+
+Since deadlines are variable, they are *in italics* as much as possible.
 
 There is also a [Quick link reference](#quick-links) at the end.
 
@@ -11,19 +13,20 @@ There is also a [Quick link reference](#quick-links) at the end.
 
 
 ## Before the Semester
-### Six months out
+### ~Six months out
 - Scheduling  and timetable request
 
-### Two months out
+### ~Two months out
 - Check timetable
 - Assessment design and things to note
 - Check out MyTimetable, section buffers.  
 
 
-### One month out
+### ~One month out
 - Course guide in CMS
 - Assign tutors to sections
 - Keep an eye on enrolment
+- Set up Canvas
 
 
 ---
