@@ -3,6 +3,8 @@
 
 Congratulations! You're convening a course for the School of Philosophy. The systems and bureaucracy at ANU can be overwhelming even to experienced convenors. This is an attempt to make it more manageable.
 
+Since deadlines are variable, they are *in italics* as much as possible. 
+
 There is also a [Quick link reference](#quick-links) at the end.
 
 ---
@@ -14,7 +16,7 @@ There is also a [Quick link reference](#quick-links) at the end.
 
 ### Two months out
 - Check timetable
-- Assessment design and things to note 
+- Assessment design and things to note
 - Check out MyTimetable, section buffers.  
 
 
